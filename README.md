@@ -6,7 +6,7 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 ## Application List
 
-🎮 [Warframe Alerting Prime](https://www.microsoft.com/store/productId/9MV8KGSLRVTF) : Information notification application developed for Waframe
+🎮 [Warframe Alerting Prime](https://www.microsoft.com/store/productId/9MV8KGSLRVTF) : Information notification application developed for Warframe
 
 📖 [Clean Reader](https://www.microsoft.com/store/productId/9MV65L2XFCSK) : TXT and EPUB reader.
 
