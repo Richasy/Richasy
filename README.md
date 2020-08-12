@@ -10,7 +10,7 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 📖 [Clean Reader](https://www.microsoft.com/store/productId/9MV65L2XFCSK) : TXT and EPUB reader.
 
-📰 [RSS Stalker](https://www.microsoft.com/store/productId/9N85PV1RJD6V) : RSS Reader.
+📰 [RSS Tracker](https://www.microsoft.com/store/productId/9N85PV1RJD6V) : RSS Reader.
 
 📝 [Markdown Lite](https://www.microsoft.com/store/productId/9NNSDDP6NVKD) : Markdown editor.
 
