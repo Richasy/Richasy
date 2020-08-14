@@ -4,6 +4,8 @@ Hello, I am a software developer, currently mainly developing UWP applications.
 
 Willing to develop beautiful and practical applications to help you live a happier life 🎉🎉
 
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=richasy&layout=compact)
+
 ## Application List
 
 🎮 [Warframe Alerting Prime](https://www.microsoft.com/store/productId/9MV8KGSLRVTF) : Information notification application developed for Warframe
@@ -11,6 +13,8 @@ Willing to develop beautiful and practical applications to help you live a happi
 📖 [Clean Reader](https://www.microsoft.com/store/productId/9MV65L2XFCSK) : TXT and EPUB reader.
 
 📰 [RSS Tracker](https://www.microsoft.com/store/productId/9N85PV1RJD6V) : RSS Reader.
+
+[![RSS Stalker V1](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=rss-stalker-v1)](https://github.com/Richasy/RSS-Stalker-V1)
 
 📝 [Markdown Lite](https://www.microsoft.com/store/productId/9NNSDDP6NVKD) : Markdown editor.
 
@@ -20,9 +24,15 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 ⏱ [Work Timer](https://github.com/Richasy/Work-Timer) : A simple timer.
 
+[![Work Timer](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=work-timer)](https://github.com/Richasy/Work-Timer)
+
 📘 [观止](https://www.microsoft.com/store/productId/9PP7NZCD58ZK) : Guanzhi's third-party application.
 
 🛠 [Rich Box](https://www.microsoft.com/store/productId/9N5TQ90W2GBD) : Toolbox with some interesting tools.
+
+## About me
+
+![About me](https://github-readme-stats.vercel.app/api?username=richasy&show_icons=true&theme=dracula)
 
 ## Get in touch
 
