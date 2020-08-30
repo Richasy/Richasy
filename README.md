@@ -20,7 +20,9 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 🎬 [Eyepetizer](https://www.microsoft.com/store/productId/9P0WDZF4T45P) : Eyepetizer (开眼) third-party applications.
 
-📺 [哔哩](https://www.microsoft.com/store/apps/9MVN4NSLT150) : ~~Bilibili's third-party application (discontinued).~~
+📺 [哔哩](https://github.com/Richasy/BiliBili-UWP) : Bilibili's third-party application
+
+[![Work Timer](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bilibili-uwp)](https://github.com/Richasy/BiliBili-UWP)
 
 ⏱ [Work Timer](https://github.com/Richasy/Work-Timer) : A simple timer.
 
