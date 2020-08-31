@@ -30,6 +30,8 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 📘 [观止](https://www.microsoft.com/store/productId/9PP7NZCD58ZK) : Guanzhi's third-party application.
 
+[![观止](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=guanzhi)](https://github.com/Richasy/GuanZhi)
+
 🛠 [Rich Box](https://www.microsoft.com/store/productId/9N5TQ90W2GBD) : Toolbox with some interesting tools.
 
 ## About me
