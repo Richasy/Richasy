@@ -12,6 +12,8 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 📖 [Clean Reader](https://www.microsoft.com/store/productId/9MV65L2XFCSK) : TXT and EPUB reader.
 
+[![Clean Reader](https://github-readme-stats.vercel.app/api/pin/?username=clean-reader&repo=cleanreader.uwp)](https://github.com/Clean-Reader/CleanReader.Uwp)
+
 📰 [RSS Tracker](https://www.microsoft.com/store/productId/9N85PV1RJD6V) : RSS Reader.
 
 [![RSS Stalker V1](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=rss-stalker-v1)](https://github.com/Richasy/RSS-Stalker-V1)
@@ -42,5 +44,5 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 - E-Mail: [Thansy@foxmail.com](mailto:Thasny@foxmail.com)
 - BiliBili: [云之幻](https://space.bilibili.com/5992670)
-- Personal site: [richasy.cn](https://www.richasy.cn)
+- Personal site: [richasy.cn](https://docs.richasy.cn)
 - Blogs: [Blog site](https://blog.richasy.cn)
