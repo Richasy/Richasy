@@ -1,6 +1,6 @@
 # Richard Zhang - @Richasy
 
-Hello, I am a software developer, currently mainly developing UWP applications.
+Hello, I am a software developer, currently mainly developing Windows applications.
 
 Willing to develop beautiful and practical applications to help you live a happier life 🎉🎉
 
@@ -19,6 +19,10 @@ Willing to develop beautiful and practical applications to help you live a happi
 📖 [Clean Reader](https://www.microsoft.com/store/productId/9MV65L2XFCSK) : TXT and EPUB reader.
 
 [![Clean Reader](https://github-readme-stats.vercel.app/api/pin/?username=clean-reader&repo=cleanreader.desktop)](https://github.com/Clean-Reader/CleanReader.Desktop)
+
+🪐 [Loopback Manager](https://www.microsoft.com/store/apps/9NTJ6CX698CL) : Local network loopback manager.
+
+[![Loopback Manager](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=loopbackmanager.desktop)](https://github.com/Richasy/LoopbackManager.Desktop)
 
 📰 [RSS Tracker](https://www.microsoft.com/store/productId/9N85PV1RJD6V) : RSS Reader.
 
