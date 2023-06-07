@@ -8,7 +8,7 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 ## Application List
 
-📺 [Fantasy Copilot](https://github.com/Richasy/FantasyCopilot) : A new-age AI desktop tool
+🤖 [Fantasy Copilot](https://github.com/Richasy/FantasyCopilot) : A new-age AI desktop tool
 
 [![Fantasy Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=fantasycopilot)](https://github.com/Richasy/FantasyCopilot)
 
