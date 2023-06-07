@@ -8,6 +8,10 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 ## Application List
 
+📺 [Fantasy Copilot](https://github.com/Richasy/FantasyCopilot) : A new-age AI desktop tool
+
+[![Fantasy Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=fantasycopilot)](https://github.com/Richasy/FantasyCopilot)
+
 📺 [哔哩](https://github.com/Richasy/Bili.UWP) : Bilibili's third-party application
 
 [![哔哩](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bili.uwp)](https://github.com/Richasy/Bili.UWP)
@@ -35,10 +39,6 @@ Willing to develop beautiful and practical applications to help you live a happi
 ⏱ [Work Timer](https://github.com/Richasy/Work-Timer) : A simple timer.
 
 [![Work Timer](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=work-timer)](https://github.com/Richasy/Work-Timer)
-
-📘 [观止](https://www.microsoft.com/store/productId/9PP7NZCD58ZK) : Guanzhi's third-party application.
-
-[![观止](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=guanzhi)](https://github.com/Richasy/GuanZhi)
 
 🛠 [Rich Box](https://www.microsoft.com/store/productId/9N5TQ90W2GBD) : Toolbox with some interesting tools.
 
