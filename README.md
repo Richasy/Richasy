@@ -12,9 +12,11 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 [![Fantasy Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=fantasycopilot)](https://github.com/Richasy/FantasyCopilot)
 
-📺 [哔哩](https://github.com/Richasy/Bili.UWP) : Bilibili's third-party application
+📺 [哔哩](https://github.com/Richasy/Bili.Copilot) : Bilibili's third-party application
 
-[![哔哩](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bili.uwp)](https://github.com/Richasy/Bili.UWP)
+[![哔哩助理](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bili.copilot)](https://github.com/Richasy/Bili.Copilot)
+
+[![哔哩 UWP](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bili.uwp)](https://github.com/Richasy/Bili.UWP)
 
 🎮 [Warframe Alerting Prime](https://www.microsoft.com/store/productId/9MV8KGSLRVTF) : Information notification application developed for Warframe
 
