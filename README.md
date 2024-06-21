@@ -8,9 +8,13 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 ## Application List
 
-🤖 [Fantasy Copilot](https://github.com/Richasy/FantasyCopilot) : A new-age AI desktop tool
+🤖 [Rodel Agent](https://github.com/Richasy/Rodel.Agent) : A new-age AI desktop tool
 
-[![Fantasy Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=fantasycopilot)](https://github.com/Richasy/FantasyCopilot)
+[![Rodel Agent](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=rodel.agent)](https://github.com/Richasy/Rodel.Agent)
+
+⏬ [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) : AI model downloader for Hugging face, Model Scope and Civitai
+
+[![Rodel Downloader](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=rodel.downloader)](https://github.com/Richasy/Rodel.Downloader)
 
 📺 [哔哩](https://github.com/Richasy/Bili.Copilot) : Bilibili's third-party application
 
@@ -18,21 +22,17 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 [![哔哩 UWP](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bili.uwp)](https://github.com/Richasy/Bili.UWP)
 
+📖 [Reader Copilot](https://readercopilot.richasy.net) : Desktop reader with support for local and online books, RSS and podcasts
+
+[![Reader Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=readercopilot.public)](https://readercopilot.richasy.net)
+
 🎮 [Warframe Alerting Prime](https://www.microsoft.com/store/productId/9MV8KGSLRVTF) : Information notification application developed for Warframe
 
 [![Warframe Alerting Prime](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=wfa.uwp)](https://github.com/Richasy/Wfa.Uwp)
 
-📖 [Clean Reader](https://www.microsoft.com/store/productId/9MV65L2XFCSK) : TXT and EPUB reader.
-
-[![Clean Reader](https://github-readme-stats.vercel.app/api/pin/?username=clean-reader&repo=cleanreader.desktop)](https://github.com/Clean-Reader/CleanReader.Desktop)
-
 🪐 [Loopback Manager](https://www.microsoft.com/store/apps/9NTJ6CX698CL) : Local network loopback manager.
 
 [![Loopback Manager](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=loopbackmanager.desktop)](https://github.com/Richasy/LoopbackManager.Desktop)
-
-📰 [RSS Tracker](https://www.microsoft.com/store/productId/9N85PV1RJD6V) : RSS Reader.
-
-[![RSS Stalker V1](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=rss-stalker-v1)](https://github.com/Richasy/RSS-Stalker-V1)
 
 📝 [Markdown Lite](https://www.microsoft.com/store/productId/9NNSDDP6NVKD) : Markdown editor.
 
@@ -52,5 +52,3 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 - E-Mail: [Thansy@foxmail.com](mailto:Thasny@foxmail.com)
 - BiliBili: [云之幻](https://space.bilibili.com/5992670)
-- Personal site: [richasy.cn](https://docs.richasy.cn)
-- Blogs: [Blog site](https://blog.richasy.cn)
