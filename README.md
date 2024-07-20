@@ -1,4 +1,4 @@
-# Richard Zhang - @Richasy
+# Anran Zhang - @Richasy
 
 Hello, I am a software developer, currently mainly developing Windows applications.
 
