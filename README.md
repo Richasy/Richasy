@@ -22,9 +22,9 @@ Willing to develop beautiful and practical applications to help you live a happi
 
 [![哔哩 UWP](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=bili.uwp)](https://github.com/Richasy/Bili.UWP)
 
-📖 [Reader Copilot](https://readercopilot.richasy.net) : Desktop reader with support for local and online books, RSS and podcasts
+📖 [Reader Copilot](https://reader.richasy.net) : Desktop reader with support for local and online books, RSS and podcasts
 
-[![Reader Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=readercopilot.public)](https://readercopilot.richasy.net)
+[![Reader Copilot](https://github-readme-stats.vercel.app/api/pin/?username=richasy&repo=readercopilot.public)](https://github.com/Richasy/ReaderCopilot.Public)
 
 🎮 [Warframe Alerting Prime](https://www.microsoft.com/store/productId/9MV8KGSLRVTF) : Information notification application developed for Warframe
 
